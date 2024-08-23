@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: whitesmoke;
+}
+
+header, main, footer {
+    margin: 1%;
+    padding: 1%;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    text-align: center;
+}
