@@ -22,7 +22,7 @@ Clona este repositorio en tu máquina local.
 Navega por las diferentes secciones utilizando la barra de navegación.
 
 # Despliegue
-El proyecto no está desplegado.
+El proyecto se encuentra desplegado en https://proyecto-frontend-api.netlify.app/
 
 # Funcionalidades
 * Acceder a los endpoints API.
