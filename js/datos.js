@@ -1,4 +1,4 @@
-const origen = 'http://127.0.0.1:5000/api-basedatos/basedatos'
+const origen = 'https://proyecto-backend-db-andresrojas.pythonanywhere.com/api-basedatos/basedatos'
 
 window.addEventListener('DOMContentLoaded', evento => {
     console.log('Se cargó la página!');
